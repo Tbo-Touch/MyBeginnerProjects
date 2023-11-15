@@ -1,0 +1,35 @@
+#container{
+    
+    height: 500px;
+    width: 485px;
+    background-color: rgb(255, 244, 222);
+    text-align: center;  
+    padding: 3px;  
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#text{
+    font-size: 22px;
+    color: #000;
+}
+
+#btnGen{
+    margin: 60px;
+    height: 60px;
+    width: 250px;
+    border-radius: 10px;
+    font-size: 27px;
+    background-color: rgb(180, 125, 105);
+}
+
